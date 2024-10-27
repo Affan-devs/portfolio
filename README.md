@@ -1,9 +1,10 @@
-#for live 
-the-portfolio-lovat-eight.vercel.app
-
 # Portfolio Project
 
-Welcome to my portfolio project! This project showcases my work and skills in web development. Below is a list of libraries and technologies used in this project.
+Welcome to my portfolio project! This project showcases my work and skills in web development.
+
+## Live Preview
+
+You can view the live version of the portfolio [here](https://the-portfolio-lovat-eight.vercel.app).
 
 ## Libraries and Technologies Used
 
